@@ -118,7 +118,7 @@ petsc4py==3.7.0
 pexpect==4.7.0
 pickleshare==0.7.5
 pigar==0.10.0
-Pillow==3.1.2
+Pillow==6.2.0
 pipreqs==0.4.10
 pkgconfig==1.1.0
 plainbox==0.25
