@@ -55,7 +55,7 @@ future==0.17.1
 futures==3.1.1
 gdbgui==0.13.1.1
 gevent==1.4.0
-Glances==2.3
+Glances==3.2.1
 google-api-core==1.8.0
 google-auth==1.6.3
 google-cloud-core==0.29.1
