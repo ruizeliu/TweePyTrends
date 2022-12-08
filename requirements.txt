@@ -15,7 +15,7 @@ botocore==1.12.109
 bs4==0.0.1
 cachetools==3.1.0
 cairocffi==1.0.2
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 checkbox-support==0.22
